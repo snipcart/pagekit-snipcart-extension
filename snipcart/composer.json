@@ -1,0 +1,9 @@
+{
+  "name": "pagekit/snipcart",
+  "version": "0.1",
+  "type": "pagekit-extension",
+  "title": "Snipcart",
+  "extra" : {
+    "scripts": "scripts.php"
+  }
+}
