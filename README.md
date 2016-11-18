@@ -4,7 +4,7 @@
 
 This extension was created as an example for a post on Snipcart's blog:
 
-> [Post coming]
+> [Building a Pagekit CMS E-commerce Demo with a Products Extension](https://snipcart.com/blog/pagekit-cms-ecommerce-demo)
 
 You can see the full repo for a live site using this extension:
 
