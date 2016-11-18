@@ -1,5 +1,7 @@
 # A Snipcart e-commerce extension for Pagekit
 
+![pagekit-demo-products-dashboard](https://snipcartweb-10f3.kxcdn.com/media/10048/pagekit-demo-products-dashboard.jpg)
+
 This extension was created as an example for a post on Snipcart's blog:
 
 > [Post coming]
